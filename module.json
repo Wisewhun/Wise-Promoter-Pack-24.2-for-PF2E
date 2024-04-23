@@ -95,8 +95,6 @@
       "name": "Author 1",
       "email": "wise.gaming.insight@gmail.com",
       "url": "https://ko-fi.com/wisewhun",
-    "manifest": "https://github.com/Wisewhun/Wise-Promoter-Pack-24.2-for-PF2E/releases/download/24.2.1/module.json",
-    "download": "https://github.com/Wisewhun/Wise-Promoter-Pack-24.2-for-PF2E/releases/download/24.2.1/wise-gaming-promoter-pack-242.zip",
       "discord": "Wise5638"
     }
   ],
@@ -113,5 +111,7 @@
         "ASSISTANT": "OWNER"
       }
     }
-  ]
+  ],
+    "manifest": "https://github.com/Wisewhun/Wise-Promoter-Pack-24.2-for-PF2E/releases/download/24.2.1/module.json",
+    "download": "https://github.com/Wisewhun/Wise-Promoter-Pack-24.2-for-PF2E/releases/download/24.2.1/wise-gaming-promoter-pack-242.zip",
 }
