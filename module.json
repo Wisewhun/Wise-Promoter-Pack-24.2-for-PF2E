@@ -1,10 +1,10 @@
 {
   "id": "wise-gaming-promoter-pack-242",
   "title": "Wise Gaming Promoter Pack: 24.2",
-  "version": "24.2.2.1",
+  "version": "24.2.2.2",
   "compatibility": {
     "minimum": "11.315",
-    "verified": "11.315"
+    "verified": "12.328"
   },
   "relationships": {
     "requires": [
@@ -37,6 +37,10 @@
         "id": "monks-active-tiles",
         "type": "module",
         "compatibility": {}
+      },
+      {
+        "id": "monks-tokenbar",
+        "type": "module"
       }
     ],
     "systems": [
@@ -108,11 +112,11 @@
       "label": "Wise Promoter Pack 24.2.2",
       "path": "packs/wise-promoter-pack-2422",
       "type": "Scene",
+      "system": "pf2e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "pf2e"
+      }
     }
   ]
 }
