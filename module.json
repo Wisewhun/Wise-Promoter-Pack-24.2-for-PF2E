@@ -1,10 +1,10 @@
 {
   "id": "wise-gaming-promoter-pack-242",
   "title": "Wise Gaming Promoter Pack: 24.2",
-  "version": "24.2.2.2.1",
+  "version": "24.2.4.0.0",
   "compatibility": {
-    "minimum": "11.315",
-    "verified": "12.328"
+    "minimum": "11",
+    "verified": "13.347"
   },
   "relationships": {
     "requires": [
@@ -40,7 +40,8 @@
       },
       {
         "id": "monks-tokenbar",
-        "type": "module"
+        "type": "module",
+        "compatibility": {}
       }
     ],
     "systems": [
@@ -83,18 +84,19 @@
       }
     ]
   },
-  "description": "Free Map &amp; Tools Pack. \n\nDescription\nGeneral Information: Promoter Packs are 100% Free and will usually include flat WEBP or PNG Maps, Basic Tools and Tips. Sometimes, they may include enhanced samples of what can be purchased in Premium Packs.\n\n24.2.1 Specific Details: This product is a module for PF2E RPG on Foundry Virtual Table Top. The Module contrains Enhanced Maps with vertical movement, PreFabs, Actors, Items, Macros, Lights, Walls, SFx, and Journals. It is a remake of Paizo's Beginner Box Menace Under Otari.\n\n\"This product uses trademarks and/or copyrights owned by Paizo Inc., used under Paizo's Community Use Policy (paizo.com/communityuse). I am expressly prohibited from charging you to use or access this content. This product is not published, endorsed, or specifically approved by Paizo. For more information about Paizo Inc. and Paizo products, visit paizo.com.",
+  "description": "<p>Free Map &amp; Tools Pack. Description General Information: Promoter Packs are 100% Free and will usually include flat WEBP or PNG Maps, Basic Tools and Tips. Sometimes, they may include enhanced samples of what can be purchased in Premium Packs. 24.2.1 Specific Details: This product is a module for PF2E RPG on Foundry Virtual Table Top. The Module contrains Enhanced Maps with vertical movement, PreFabs, Actors, Items, Macros, Lights, Walls, SFx, and Journals. It is a remake of Paizo's Beginner Box Menace Under Otari. \"This product uses trademarks and/or copyrights owned by Paizo Inc., used under Paizo's Community Use Policy (paizo.com/communityuse). I am expressly prohibited from charging you to use or access this content. This product is not published, endorsed, or specifically approved by Paizo. For more information about Paizo Inc. and Paizo products, visit paizo.com.</p>",
   "authors": [
     {
       "name": "Author 1",
       "email": "wise.gaming.insight@gmail.com",
       "url": "https://ko-fi.com/wisewhun",
-      "discord": "Wise5638"
+      "discord": "Wise5638",
+      "flags": {}
     }
   ],
   "url": "https://ko-fi.com/wisewhun",
-  "manifest": "https://github.com/Wisewhun/Wise-Promoter-Pack-24.2-for-PF2E/releases/download/24.2.2.2.1/module.json",
-  "download": "https://github.com/Wisewhun/Wise-Promoter-Pack-24.2-for-PF2E/releases/download/24.2.2.2.1/wise-gaming-promoter-pack-24.2.2.2.1.zip",
+  "manifest": "https://github.com/Wisewhun/Wise-Promoter-Pack-24.2-for-PF2E/releases/download/24.2.3.0.0/module.json",
+  "download": "https://github.com/Wisewhun/Wise-Promoter-Pack-24.2-for-PF2E/releases/download/24.2.3.0.0/wise-gaming-promoter-pack-24.2.3.0.0.zip",
   "packs": [
     {
       "name": "2421-pack",
@@ -118,5 +120,6 @@
         "ASSISTANT": "OWNER"
       }
     }
-  ]
+  ],
+  "flags": {}
 }
