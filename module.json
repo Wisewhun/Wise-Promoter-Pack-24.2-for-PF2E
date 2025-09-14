@@ -95,8 +95,8 @@
     }
   ],
   "url": "https://ko-fi.com/wisewhun",
-  "manifest": "https://github.com/Wisewhun/Wise-Promoter-Pack-24.2-for-PF2E/releases/download/24.2.3.0.0/module.json",
-  "download": "https://github.com/Wisewhun/Wise-Promoter-Pack-24.2-for-PF2E/releases/download/24.2.3.0.0/wise-gaming-promoter-pack-24.2.3.0.0.zip",
+  "manifest": "https://github.com/Wisewhun/Wise-Promoter-Pack-24.2-for-PF2E/releases/download/24.2.4.0.0/module.json",
+  "download": "https://github.com/Wisewhun/Wise-Promoter-Pack-24.2-for-PF2E/releases/download/24.2.4.0.0/wise-gaming-promoter-pack-24.2.4.0.0.zip",
   "packs": [
     {
       "name": "2421-pack",
